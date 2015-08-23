@@ -1,0 +1,104 @@
+.header{
+	background-color:transparent;
+	width:1000px;
+	height:120px;
+	position:relative;
+	top:7%;
+	left:8%;
+	text-align:center;
+	border-color:#696969;
+	border-width:medium;
+	border-style:groove;
+	min-width:50%;
+	min-height:12%;
+}
+
+.login{
+   color:#fd0000;
+	width:100px;
+	height:40px;
+	position:absolute;
+	top:1%;
+	left:87%;
+	border-color:#696969;
+	border-width:thin;
+	border-style:dotted;
+	
+}
+
+.left{
+	background-color:transparent;
+	font-size:125%;
+	min-width:85%;
+	width:auto;
+	min-height:20%;
+	height:auto;
+	position:absolute;
+	top:33%;
+}
+
+.page{
+	background-image:url(../Pictures/ride.jpeg);
+	width:1333px;
+	min-height:700px;
+	height:auto;
+	border-color:#696969;
+	border-width:thin;
+	border-style:solid;
+	position:absolute;
+	top:1%;
+	
+}
+
+.content{
+   color:#111111;
+	position:absolute;
+	top:30%;
+	left:10%;
+	min-height:70%;
+	height:auto;
+	min-width:78%;
+	width:auto;
+}
+
+.bottom{
+   background-image:url(../Pictures/fundo_cinza.jpeg);
+	font-family: @PMingLiU-ExtB;
+	color:#790000;
+	font-size:120%;
+	width:1333px;
+	min-height:7%;
+	height:auto;
+	border-color:#696969;
+	border-width:thin;
+	border-style:solid;
+	position:relative;
+	top:690px;
+	
+}
+
+.logo{
+   float:left;
+	width:20%;
+	font-size:30%;
+	height:100%;
+}
+
+.direita{
+   color:#d20000;
+	font-family: @GulimChe;
+	font-size:115%;
+	width:30%;
+	float:right;
+}
+
+.meio{
+   color:#bd0000;
+	font-family:"@Microsoft YaHei";
+	font-size:95%;
+	width:50%;
+	float:left;
+	
+}
+
+
